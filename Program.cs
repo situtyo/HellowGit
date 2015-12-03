@@ -32,6 +32,8 @@ namespace 原始的スタック
             Console.WriteLine(Pop());
             push(3);
             Console.WriteLine(Pop());
+
+            Console.WriteLine("Finish");
         }
     }
 }
